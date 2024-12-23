@@ -4,6 +4,9 @@ Quantum is a voice-controlled virtual assistant that listens to your commands, p
 
 ---
 
+![Preview](screenshot.png)  
+*A clean and interactive UI for effortless voice interaction.*
+
 ## Features
 
 - **Speech Recognition**: Recognizes spoken commands.
